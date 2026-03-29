@@ -30,8 +30,8 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [https://github.com/kolisettyvignesh07-cmd/Vignesh-repo/edit/main/README.md]
-- **LinkedIn Profile:** [https://www.linkedin.com/in/kolisetty-vignesh-466aa43ba?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **GitHub Profile:** [https://github.com/kolisettyvignesh07-cmd]
+- **LinkedIn Profile:** [https://linkedin.com/in/kolisetty-vignesh-08-]
 - **Google Form Link:** [https://docs.google.com/forms/d/1nNxcC93M0ydvfRuSnByFtV0JrCgGmK3H9PlhCb4yO2U/edit]
 
 ## Repository Structure
