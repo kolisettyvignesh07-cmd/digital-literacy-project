@@ -43,4 +43,3 @@ I learned how digital platforms like GitHub and LinkedIn are not just repositori
 3. **Career Growth:** Leveraging digital footprints to improve global career opportunities.
 
 ---
-> *Part of the Professional Development Module — 2026*
