@@ -12,9 +12,16 @@ This task focuses on building and establishing a professional online presence. B
 ## 🛠 Profiles Created
 To showcase my technical skills and academic background, I have developed a presence on the following professional platforms:
 
-* **GitHub:** Hosting repositories for my B.Tech projects and Python tools.
-* **LinkedIn:** Networking with industry professionals and showcasing my academic journey.
-* **Stack Overflow:** Engaging with the global developer community to solve technical challenges.
+1. **GitHub** 💻
+   - *Purpose:* Code versioning and repository management for Python projects.
+   - *Key Focus:* Showcasing scripts like the Farm Expense & Profit Management tool.
+
+2. **LinkedIn** 🤝
+   - *Purpose:* Professional networking and academic milestone tracking.
+   - *Key Focus:* Highlighting B.Tech coursework (Calculus, Circuit Analysis, UHV).
+
+3. **Stack Overflow** 🛠️
+   - *Purpose:* Community-based problem solving and technical knowledge sharing.
 
 ## 📝 Project Description
 For this task, I meticulously updated my professional profiles to reflect my **academic background**, **technical interests** (specifically Python development and Physics), and **digital identity**. These platforms serve as a centralized hub for:
