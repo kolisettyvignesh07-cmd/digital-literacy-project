@@ -32,7 +32,7 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 ## Useful Links
 - **GitHub Profile:** [https://github.com/kolisettyvignesh07-cmd]
 - **LinkedIn Profile:** [https://linkedin.com/in/kolisetty-vignesh-08-]
-- **Google Form Link:** [https://docs.google.com/forms/d/1nNxcC93M0ydvfRuSnByFtV0JrCgGmK3H9PlhCb4yO2U/edit]
+- **Google Form Link:** [https://docs.google.com/forms/d/e/1FAIpQLSdbM088Mx9Ldy3Z31yXUma9p1kh889QW5mf0FnFqn0q9Lx50g/viewform?usp=dialog]
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
