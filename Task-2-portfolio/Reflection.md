@@ -1,7 +1,7 @@
 # 🌐 Task 2: Digital Portfolio
 
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)
+![LinkedIn](https://https://www.linkedin.com/feed/)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F48024?logo=stackoverflow)
 
 ## 🎯 Objective
